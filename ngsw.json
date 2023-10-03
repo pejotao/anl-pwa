@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1696327355496,
+  "index": "https://pejotao.github.io/anl-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://pejotao.github.io/anl-pwa/favicon.ico",
+        "https://pejotao.github.io/anl-pwa/index.html",
+        "https://pejotao.github.io/anl-pwa/main.962076b17b74b600.js",
+        "https://pejotao.github.io/anl-pwa/manifest.webmanifest",
+        "https://pejotao.github.io/anl-pwa/polyfills.bc701315a2be71dd.js",
+        "https://pejotao.github.io/anl-pwa/runtime.09b4b5ba7c0562b7.js",
+        "https://pejotao.github.io/anl-pwa/scripts.356e312b357617b5.js",
+        "https://pejotao.github.io/anl-pwa/styles.4eab4526e7077f9f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-128x128.png",
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-144x144.png",
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-152x152.png",
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-192x192.png",
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-384x384.png",
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-512x512.png",
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-72x72.png",
+        "https://pejotao.github.io/anl-pwa/assets/icons/icon-96x96.png",
+        "https://pejotao.github.io/anl-pwa/assets/scripts/script.js",
+        "https://pejotao.github.io/anl-pwa/bootstrap-icons.49c9b8524d23a4c2.woff",
+        "https://pejotao.github.io/anl-pwa/bootstrap-icons.f41d849d445f6f5f.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-128x128.png": "066b0b1db6777717a65811768b9552386e968005",
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-144x144.png": "9c1ab269cf79b35ddbacba6821b7e40f32bb9f07",
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-152x152.png": "ca70c386fdfdfe08c102c641172b9532d8753747",
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-192x192.png": "319219d6c78acf0f1ee3d7aec995b5a7780716eb",
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-384x384.png": "420737801e4f74c55e3d2e6dc72591323882803b",
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-512x512.png": "9f0d74292ddb5dd7353c4cd78d200dae0515efd5",
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-72x72.png": "d37ae5d4ca19d5a2feb308e4e42bc5e4bf1c95a5",
+    "https://pejotao.github.io/anl-pwa/assets/icons/icon-96x96.png": "ef8e51770e6e3ab4636cdbfe12b5a273f3f2c619",
+    "https://pejotao.github.io/anl-pwa/assets/scripts/script.js": "336221e10c7331fe4e4f335029fd503b91a46f6e",
+    "https://pejotao.github.io/anl-pwa/bootstrap-icons.49c9b8524d23a4c2.woff": "cce254d50d2f744cd8f384cd4aa2a23c8850e2ee",
+    "https://pejotao.github.io/anl-pwa/bootstrap-icons.f41d849d445f6f5f.woff2": "d33714cb0836ea9ebe02f4ccc22806593903167a",
+    "https://pejotao.github.io/anl-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://pejotao.github.io/anl-pwa/index.html": "75b1b5313f3ae984cbeb5383e3bd67e52abd570b",
+    "https://pejotao.github.io/anl-pwa/main.962076b17b74b600.js": "9eb53018058156749c2ba43cd3ea30990c82a4ec",
+    "https://pejotao.github.io/anl-pwa/manifest.webmanifest": "30bab2982457c67319f34d415a56bfc0937a7796",
+    "https://pejotao.github.io/anl-pwa/polyfills.bc701315a2be71dd.js": "0e7eec18ba65004338bde0fdcd80ddb3211f0c58",
+    "https://pejotao.github.io/anl-pwa/runtime.09b4b5ba7c0562b7.js": "8a230213eb7d0114f781c109dd5b83c44ab97cab",
+    "https://pejotao.github.io/anl-pwa/scripts.356e312b357617b5.js": "b05a16df135f3ffee31aab484afbcce2e47222e0",
+    "https://pejotao.github.io/anl-pwa/styles.4eab4526e7077f9f.css": "7f0c9a1a5cd8b2dc7b5034e7a4a4beb0c4e529ef"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
