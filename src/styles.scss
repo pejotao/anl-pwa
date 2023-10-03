@@ -1,0 +1,40 @@
+body {
+	background: #1b1b63;
+	overflow: hidden;
+	height: 100vh;
+}
+
+
+.dot {
+	border-radius: 50%;
+	position: absolute;
+	opacity: 0;
+	background: currentcolor;
+	min-width: 5px;
+	min-height: 5px;
+}
+
+.dot[data-variant='1'] {
+	border-radius: 0;
+	background: none;
+	border: 3px solid currentcolor;
+}
+
+.dot[data-variant='2'] {
+	border-radius: 0;
+	height: 2px !important;
+}
+
+.dot[data-variant='3'] {
+	background: none;
+	border: 3px solid currentcolor;
+}
+
+@keyframes spin {
+	from {
+		transform: rotate(0deg)
+	}
+	to {
+		transform: rotate(360deg)
+	}
+}
